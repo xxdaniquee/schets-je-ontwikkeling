@@ -1,8 +1,7 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Schets je ontwikkeling
+[Proces](https://github.com/xxdaniquee/schets-je-ontwikkeling/wiki/Schets-je-ontwikkeling)
 
-# Naam deeltaak
+![Untitled_Artwork](https://github.com/xxdaniquee/schets-je-ontwikkeling/assets/128936068/24842703-ce5d-49d4-aae9-f9ca7cfcaddb)
 
-## Licentie
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+
